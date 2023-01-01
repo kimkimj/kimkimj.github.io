@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: Kim's Log
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+subtitle: "배운것들을 다시 돌아보며 정리하는 블로그"
 email:
 name: Miji Kim
 description: >
-  배운것을 다시 돌아보며 정리하는 블로그
+
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -60,6 +60,9 @@ descriptions:
   - cat: Spring
     desc: "Spring"
 
+  - cat: Java
+
+  - cat: Project
 # Social icons and sharing options
 #
 # Social settings are used in two places:
